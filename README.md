@@ -4,6 +4,8 @@ My skills are limited, but consistently expanding as I delve into more projects 
 Currently, I am focused on generative AI, in particular LLMs, with a side focus on image generation.  
 If you want to contact me for any particular purpose, you can reach me through @Arctursus on [Discord](https://www.discord.com).  
 I am also technically available on Twitter/X and Bluesky, but without any guarantees that I'll get back to you anytime soon.
+
+Personal git host at https://git.arcsnet.dev
 <!--
 **Arctursus12/Arctursus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
