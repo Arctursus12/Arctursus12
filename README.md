@@ -1,6 +1,5 @@
 ### Hello!### Hello!
 I'm Arc, a tech hobbyist, primarily focused on programming and (appropriately implemented) AI. I've dabbled in more or less everything, from databases and VMs to neural networks. 
-Currently, I am focused on generative AI, in particular LLMs, with a side focus on image generation.  
 If you want to contact me for any particular purpose, you can reach me through @Arctursus on [Discord](https://www.discord.com).  
 I am also technically available on Twitter/X and Bluesky, but without any guarantees that I'll get back to you anytime soon.
 
